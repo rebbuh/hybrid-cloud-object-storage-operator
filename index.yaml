@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   hybrid-cloud-object-storage-operator:
   - apiVersion: v2
+    appVersion: 0.3.15
+    created: "2023-01-30T10:49:23.012054777Z"
+    description: A Helm chart for Kubernetes
+    digest: 1789e03589d0d743658643b012902d497b8239f43956a64a66a0b69607fe9f56
+    name: hybrid-cloud-object-storage-operator
+    type: application
+    urls:
+    - https://rebbuh.github.io/hybrid-cloud-object-storage-operator/hybrid-cloud-object-storage-operator-0.3.15.tgz
+    version: 0.3.15
+  - apiVersion: v2
     appVersion: 0.3.14
     created: "2023-01-30T10:30:34.240294415Z"
     description: A Helm chart for Kubernetes
@@ -143,6 +153,16 @@ entries:
     version: 0.3.1
   hybrid-cloud-object-storage-operator-crds:
   - apiVersion: v2
+    appVersion: 0.3.15
+    created: "2023-01-30T10:49:23.012266279Z"
+    description: Installs the CRDs for the hybrid-cloud-object-storage-operator
+    digest: e3787962c1603003c6eb277aa768cd267269b25396a41f3d6797cee4631b5ccd
+    name: hybrid-cloud-object-storage-operator-crds
+    type: application
+    urls:
+    - https://rebbuh.github.io/hybrid-cloud-object-storage-operator/hybrid-cloud-object-storage-operator-crds-0.3.15.tgz
+    version: 0.3.15
+  - apiVersion: v2
     appVersion: 0.3.14
     created: "2023-01-30T10:30:34.240492718Z"
     description: Installs the CRDs for the hybrid-cloud-object-storage-operator
@@ -282,4 +302,4 @@ entries:
     urls:
     - https://rebbuh.github.io/hybrid-cloud-object-storage-operator/hybrid-cloud-object-storage-operator-crds-0.3.1.tgz
     version: 0.3.1
-generated: "2023-01-30T10:30:34.239615406Z"
+generated: "2023-01-30T10:49:23.011048664Z"
